@@ -28,4 +28,4 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/Xiaowu/xiaowu.github.io.git
+git clone https://github.com/xwdjjy233-hub/xiaowu.github.io.git
